@@ -12,14 +12,14 @@
 
 I am 27 years old. I know how to work in a group and I want to constantly improve my skills. In my point of view my future profession is developing. I spend all my free time learning new things.
 
-### Skills
+### _Skills_
 
 1. HTML
 2. CSS
 3. JS (Basic)
 4. GitHub and Git
 
-### Code example
+### _Code example_
 
 ```
 let userName = "Kirill"
@@ -29,3 +29,12 @@ alert (message);
 }
 showMessage();
 ```
+
+### _Experience_
+
+Only rs.school experience
+
+### _Languages_
+
+1. Russia
+2. English
